@@ -1,14 +1,8 @@
 {
     "Name": "Prestimulus Exp2",
-    "License": "",
     "Authors": [
         "Aya Ben-Yakov",
         "Noga Cohen"
     ],
-    "Acknowledgements": "",
-    "HowToAcknowledge": "",
-    "Funding": "",
-    "ReferencesAndLinks": [],
-    "DatasetDOI": " https://doi.org/10.1101/176057",
     "BIDSVersion": "1.0.2"
 }
